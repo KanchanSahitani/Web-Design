@@ -1,2 +1,2 @@
 # Web-Design
-It is task provided by Bharat Intern(Internship).
+It is Weather website using Html, Css, Js that fetches weather data from an API and displays the current weather conditions.
